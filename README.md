@@ -14,4 +14,4 @@
   AUTHENTICATION: https://www.digitalocean.com/community/tutorials/how-to-add-login-authentication-to-react-applications <br />
   NAVBAR: https://react-bootstrap.github.io/components/navbar/ <br />
   
- 
+- PROJECTS: https://ordinarycoders.com/blog/article/react-projects-github
