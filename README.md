@@ -9,6 +9,8 @@
 - ERROR: 401 STATUS CODE <br />
   SOLUTION: https://stackoverflow.com/a/48943220 <br />
   
-- LOGIN PAGE: https://mui.com/material-ui/getting-started/templates/
-  AUTHENTICATION: https://www.digitalocean.com/community/tutorials/how-to-add-login-authentication-to-react-applications
-  NAVBAR: https://react-bootstrap.github.io/components/navbar/
+- LOGIN PAGE: https://mui.com/material-ui/getting-started/templates/ <br />
+  AUTHENTICATION: https://www.digitalocean.com/community/tutorials/how-to-add-login-authentication-to-react-applications <br />
+  NAVBAR: https://react-bootstrap.github.io/components/navbar/ <br />
+  
+ 
