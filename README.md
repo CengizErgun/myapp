@@ -19,5 +19,5 @@
 ## 05/07/2022
 - STATE MANAGEMENT
   - CONTEXT
-    - CLASS BASED C: https://reactjs.org/docs/context.html
-    - FUNCTIONAL C: https://medium.com/@danfyfe/using-react-context-with-functional-components-153cbd9ba214
+    - CLASS BASED COMPONENT: https://reactjs.org/docs/context.html
+    - FUNCTIONAL COMPONENT: https://medium.com/@danfyfe/using-react-context-with-functional-components-153cbd9ba214
