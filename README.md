@@ -15,3 +15,9 @@
   NAVBAR: https://react-bootstrap.github.io/components/navbar/ <br />
   
 - PROJECTS: https://ordinarycoders.com/blog/article/react-projects-github
+
+## 05/07/2022
+- STATE MANAGEMENT
+  - CONTEXT
+    - CLASS BASED C: https://reactjs.org/docs/context.html
+    - FUNCTIONAL C: https://medium.com/@danfyfe/using-react-context-with-functional-components-153cbd9ba214
