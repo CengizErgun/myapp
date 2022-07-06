@@ -29,3 +29,4 @@
   MONGOOSE(-__v): https://gist.github.com/tmurphree/1a6a8f575b7309c478fac406f0e893b2#query <br /> 
   MONGOOSE POPULATE: https://stackoverflow.com/a/53002303 <br />
 - AUTH AND ROLE BASED ACCESS: https://www.bezkoder.com/node-js-mongodb-auth-jwt/#Flow_for_Signup_038_Login_with_JWT_Authentication + (https://www.bezkoder.com/react-jwt-auth/ || https://www.bezkoder.com/react-hooks-jwt-auth/)
+- HTML TO JSX: https://magic.reactjs.net/htmltojsx.htm
