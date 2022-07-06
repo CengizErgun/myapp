@@ -28,4 +28,4 @@
   MODULE EXPORTING: https://stackify.com/node-js-module-exports/#:~:text=Module%20exports%20are%20the%20instruction,to%20access%20the%20exported%20code. ,https://www.educative.io/answers/what-are-module-exports-in-javascript<br />
   MONGOOSE(-__v): https://gist.github.com/tmurphree/1a6a8f575b7309c478fac406f0e893b2#query <br /> 
   MONGOOSE POPULATE: https://stackoverflow.com/a/53002303 <br />
-  AUTH AND ROLE BASED ACCESS: https://www.bezkoder.com/node-js-mongodb-auth-jwt/#Flow_for_Signup_038_Login_with_JWT_Authentication + https://www.bezkoder.com/react-jwt-auth/
+- AUTH AND ROLE BASED ACCESS: https://www.bezkoder.com/node-js-mongodb-auth-jwt/#Flow_for_Signup_038_Login_with_JWT_Authentication + https://www.bezkoder.com/react-jwt-auth/
