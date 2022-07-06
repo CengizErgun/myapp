@@ -21,3 +21,4 @@
   - CONTEXT
     - https://reactjs.org/docs/context.html
     - https://medium.com/@danfyfe/using-react-context-with-functional-components-153cbd9ba214
+- (JS) EVENT LOOP: https://www.youtube.com/watch?v=8aGhZQkoFbQ
