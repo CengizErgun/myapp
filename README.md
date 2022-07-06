@@ -22,3 +22,6 @@
     - https://reactjs.org/docs/context.html
     - https://medium.com/@danfyfe/using-react-context-with-functional-components-153cbd9ba214
 - (JS) EVENT LOOP: https://www.youtube.com/watch?v=8aGhZQkoFbQ
+
+## 06/07/2022
+- IMPORT VS REQUIRE: https://stackoverflow.com/a/64851779
