@@ -24,7 +24,7 @@
 - (JS) EVENT LOOP: https://www.youtube.com/watch?v=8aGhZQkoFbQ
 
 ## 06/07/2022
-- IMPORT VS REQUIRE: https://stackoverflow.com/a/64851779
-  MODULE EXPORTING: https://stackify.com/node-js-module-exports/#:~:text=Module%20exports%20are%20the%20instruction,to%20access%20the%20exported%20code.
-  MONGOOSE(-__v): https://gist.github.com/tmurphree/1a6a8f575b7309c478fac406f0e893b2#query
-  MONGOOSE POPULATE: https://stackoverflow.com/a/53002303
+- IMPORT VS REQUIRE: https://stackoverflow.com/a/64851779 <br />
+  MODULE EXPORTING: https://stackify.com/node-js-module-exports/#:~:text=Module%20exports%20are%20the%20instruction,to%20access%20the%20exported%20code. <br />
+  MONGOOSE(-__v): https://gist.github.com/tmurphree/1a6a8f575b7309c478fac406f0e893b2#query <br /> 
+  MONGOOSE POPULATE: https://stackoverflow.com/a/53002303 <br />
