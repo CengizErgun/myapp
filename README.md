@@ -30,3 +30,10 @@
   MONGOOSE POPULATE: https://stackoverflow.com/a/53002303 <br />
 - AUTH AND ROLE BASED ACCESS: https://www.bezkoder.com/node-js-mongodb-auth-jwt/#Flow_for_Signup_038_Login_with_JWT_Authentication + (https://www.bezkoder.com/react-jwt-auth/ || https://www.bezkoder.com/react-hooks-jwt-auth/)
 - HTML TO JSX: https://magic.reactjs.net/htmltojsx.htm
+
+## 07/07/2022
+- BEST PRACTICES: https://www.freecodecamp.org/news/best-practices-for-react/
+    - (JS) https://www.freecodecamp.org/news/top-javascript-concepts-to-know-before-learning-react/
+    - MAIN: https://reactjs.org/docs/hello-world.html
+    - HOOKS: https://reactjs.org/docs/hooks-intro.html
+    - ADVANCED: https://reactjs.org/docs/accessibility.html
