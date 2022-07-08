@@ -37,3 +37,6 @@
     - MAIN: https://reactjs.org/docs/hello-world.html
     - HOOKS: https://reactjs.org/docs/hooks-intro.html
     - ADVANCED: https://reactjs.org/docs/accessibility.html
+
+# 09/07/2022
+- REACT DEVELOPER TOOLS: https://github.com/facebook/react/tree/main/packages/react-devtools
