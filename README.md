@@ -44,5 +44,5 @@
 - FOLDER STRUCTURE: https://www.robinwieruch.de/react-folder-structure/
 
 ## 11/07/2022
-- LOGIN AND REGISTER HTML-CSS: https://us.niemvuilaptrinh.com/article/22-login-and-registration-form-in-html
-- RESPONSIVE NAV: https://codepen.io/tag/responsive-nav
+- LOGIN AND REGISTER HTML-CSS: https://us.niemvuilaptrinh.com/article/22-login-and-registration-form-in-html - https://codepen.io/tomma5o/pen/NrbKXy
+- RESPONSIVE NAV: https://codepen.io/tag/responsive-nav - https://codepen.io/hitensharma/pen/dybryGE
