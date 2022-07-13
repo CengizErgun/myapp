@@ -46,3 +46,6 @@
 ## 11/07/2022
 - LOGIN AND REGISTER HTML-CSS: https://us.niemvuilaptrinh.com/article/22-login-and-registration-form-in-html - https://codepen.io/tomma5o/pen/NrbKXy
 - RESPONSIVE NAV: https://codepen.io/tag/responsive-nav - https://codepen.io/hitensharma/pen/dybryGE
+
+## 13/07/2022
+- JWT AUTH .NET 6.0: https://jasonwatmore.com/post/2021/12/14/net-6-jwt-authentication-tutorial-with-example-api
