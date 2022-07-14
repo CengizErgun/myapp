@@ -40,7 +40,7 @@
 
 ## 09/07/2022
 - REACT DEVELOPER TOOLS: https://github.com/facebook/react/tree/main/packages/react-devtools
-- PAGINATION: https://academind.com/tutorials/reactjs-pagination
+- PAGINATION: https://academind.com/tutorials/reactjs-pagination, https://www.npmjs.com/package/react-paginate
 - FOLDER STRUCTURE: https://www.robinwieruch.de/react-folder-structure/
 
 ## 11/07/2022
