@@ -51,3 +51,6 @@
 - JWT AUTH .NET 6.0: https://jasonwatmore.com/post/2021/12/14/net-6-jwt-authentication-tutorial-with-example-api
 - STATE MANAGEMENT: https://dev.to/ruppysuppy/redux-vs-context-api-when-to-use-them-4k3p, https://www.youtube.com/watch?v=zpUMRsAO6-Y
 - API EXAMPLES: https://developer.imdb.com/, https://developer.paypal.com/home
+
+## 19/07/2022
+- KEYS: https://reactjs.org/docs/lists-and-keys.html
