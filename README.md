@@ -54,3 +54,6 @@
 
 ## 19/07/2022
 - KEYS: https://reactjs.org/docs/lists-and-keys.html
+
+## 22/07/2022
+- SITE DOWNLOADER: https://saveweb2zip.com/en
