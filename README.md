@@ -58,4 +58,4 @@
 ## 22/07/2022
 - SITE DOWNLOADER: https://saveweb2zip.com/en
 - ISOLATING BOOTSTRAP: https://formden.com/blog/isolate-bootstrap
-- INPUT CSS: https://codepen.io/vishalsondarva/pen/bJwJww
+- INPUT FIELD ANIMATION CSS: https://codepen.io/vishalsondarva/pen/bJwJww
