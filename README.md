@@ -57,3 +57,4 @@
 
 ## 22/07/2022
 - SITE DOWNLOADER: https://saveweb2zip.com/en
+- ISOLATING BOOTSTRAP: https://formden.com/blog/isolate-bootstrap
